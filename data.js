@@ -54,5 +54,17 @@ window.LINCS_LEGENDS = [
       "Ralph Cromwell's great brick tower was nearly stripped in 1910, its carved fireplaces packed for America and later brought home. Legend tells of a White Lady who still walks the battlements.",
     videoUrl: "https://www.facebook.com/reel/886868711150726",
     featured: false
+  },
+  {
+    id: "crowland-abbey",
+    name: "Crowland Abbey",
+    subtitle: "The demons of St Guthlac",
+    nearestTown: "Crowland",
+    lat: 52.6764,
+    lng: -0.1681,
+    description:
+      "At Crowland, the hermit Guthlac said demons dragged him through the fens around his cell. Today the ruined abbey stands on the spot. (Legend, from the 8th-century Life of St Guthlac.)",
+    videoUrl: "https://www.facebook.com/reel/2189323121619996",
+    featured: false
   }
 ];
